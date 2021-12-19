@@ -12,7 +12,6 @@ import com.example.orderspringboot.entity.Order;
 import com.example.orderspringboot.mapper.AdminMapper;
 import com.example.orderspringboot.mapper.MenuMapper;
 import com.example.orderspringboot.mapper.OrderMapper;
-import javafx.scene.input.Mnemonic;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
